@@ -19,9 +19,9 @@ interests:
 - Computational Linguistics
 - Information Retrieval
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
-role: Professor of Artificial Intelligence
+- name: University of New South Wales
+  url: https://www.unsw.edu.au
+role: PhD Student in Cognitive Psychology
 social:
 - icon: envelope
   icon_pack: fas
