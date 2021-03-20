@@ -3,21 +3,20 @@ bio: My research interests include decision making
   matter.
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: Masters of Science in Psychology
+    institution: University of Basel
+    year: 2018
+  - course: Bacholar of Science in Psychology
+    institution: University of Basel
+    year: 2015
+    
 email: "theilla.mo@gmail.com"
 highlight_name: false
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Data Science
+- Statistics
+- Experimental Psychology 
+
 organizations:
 - name: University of New South Wales
   url: https://www.unsw.edu.au
@@ -45,8 +44,7 @@ superuser: true
 title: Tehilla Ostrovsky
 ---
 
-Tehilla Ostrovsky is a Ph.D. studying cognitive science at UNSW, Sydney. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a Ph.D. studying cognitive science at UNSW, Sydney. I received my BA adn my Masters degrees from the University of Basel, Switzerland. My research focuses on risk decision-making and information seeking behvaiour.  
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
