@@ -21,7 +21,7 @@ feature:
   icon_pack: fab
   name: R
 - description: 100%
-  icon: fa-js
+  icon: js
   icon_pack: fas
   name: Statistics
 - description: 10%
