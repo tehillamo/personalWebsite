@@ -25,7 +25,7 @@ feature:
   icon_pack: fab
   name: Statistics
 - description: 10%
-  icon: overleaf.svg
+  icon: overleaf
   icon_pack: ai
   name: Photography
 
