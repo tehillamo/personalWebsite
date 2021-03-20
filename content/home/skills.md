@@ -22,7 +22,7 @@ feature:
   name: R
 - description: 100%
   icon: js
-  icon_pack: fas
+  icon_pack: fab
   name: Statistics
 - description: 10%
   icon: camera-retro
