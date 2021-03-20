@@ -24,7 +24,7 @@ feature:
   icon: js-square
   icon_pack: fab
   name: Statistics
-- description: 10%
+- description: Overleaf is an extremely useful, LaTex-based tool for writing documents. I use Overleaf to write my scientific papers.  
   icon: overleaf-square
   icon_pack: ai
   name: Photography
