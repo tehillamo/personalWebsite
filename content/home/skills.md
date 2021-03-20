@@ -17,7 +17,7 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
 - description: I have been using R for data analysis as a undergraduate student in 2015. I find R useful for analyzing data, for modeling and for data visualization.  
-  icon: r-project-square
+  icon: r-project
   icon_pack: fab
 #  name: R
 - description: I started using JavaScript about a year ago to design my online psychology experiments. 
