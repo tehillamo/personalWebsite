@@ -19,15 +19,15 @@ feature:
 - description: I have been using R for data analysis as a undergraduate student in 2015. I find R useful for analyzing data, for modeling and for data visualization.  
   icon: r-project-square
   icon_pack: fab
-  name: R
+#  name: R
 - description: I started using JavaScript about a year ago to design my online psychology experiments. 
   icon: js-square
   icon_pack: fab
-  name: Statistics
+#  name: Statistics
 - description: Overleaf is an extremely useful, LaTex-based tool for writing documents. I use Overleaf to write my scientific papers.  
   icon: overleaf-square
   icon_pack: ai
-  name: Photography
+#  name: Photography
 
 # Uncomment to use emoji icons.
 #- icon = ":smile:"
