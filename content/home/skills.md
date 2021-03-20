@@ -16,17 +16,17 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: 90%
+- description: I have been using R for data analysis as a undergraduate student in 2015. I find R useful for analyzing data, for modeling and for data visualization.  
   icon: r-project
   icon_pack: fab
   name: R
-- description: 100%
+- description: I started using JavaScript about a year ago to design my online psychology experiments. 
   icon: js
   icon_pack: fab
   name: Statistics
 - description: 10%
-  icon: camera-retro
-  icon_pack: fas
+  icon: overleaf.svg
+  icon_pack: ai
   name: Photography
 
 # Uncomment to use emoji icons.
