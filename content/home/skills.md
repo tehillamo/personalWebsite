@@ -21,11 +21,11 @@ feature:
   icon_pack: fab
   name: R
 - description: I started using JavaScript about a year ago to design my online psychology experiments. 
-  icon: js
+  icon: js-square
   icon_pack: fab
   name: Statistics
 - description: 10%
-  icon: overleaf
+  icon: overleaf-square
   icon_pack: ai
   name: Photography
 
