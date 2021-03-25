@@ -20,11 +20,11 @@ feature:
   icon: r-project
   icon_pack: fab
 #  name: R
-- description: I started using JavaScript about a year ago to design my online psychology experiments. 
+- description: I use JavaScript to design my online psychology experiments. 
   icon: js-square
   icon_pack: fab
 #  name: Statistics
-- description: Overleaf is an extremely useful, LaTex-based tool for writing documents. I use Overleaf to write my scientific papers.  
+- description: Overleaf is an extremely useful, LaTex-based, tool for writing documents. I use Overleaf to write my scientific papers.  
   icon: overleaf-square
   icon_pack: ai
 #  name: Photography

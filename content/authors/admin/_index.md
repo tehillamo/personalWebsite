@@ -6,7 +6,7 @@ education:
   - course: Masters of Science in Psychology
     institution: University of Basel
     year: 2018
-  - course: Bacholar of Science in Psychology
+  - course: Bachelor of Science in Psychology
     institution: University of Basel
     year: 2015
     
@@ -44,7 +44,7 @@ superuser: true
 title: Tehilla Ostrovsky
 ---
 
-I am a Ph.D. studying cognitive science at UNSW, Sydney. I received my BA and my Masters degrees from the University of Basel, Switzerland. My research focuses on risky decision-making and information-seeking behavior.  
+I am a Ph.D. studying cognitive science at UNSW, Sydney. I received my Bachelor and my Masters degrees from the University of Basel, Switzerland. My research focuses on risky decision-making and information-seeking behavior.  
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
