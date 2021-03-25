@@ -30,21 +30,21 @@ social:
   icon: twitter
   icon_pack: fab
   label: Follow me on Twitter
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/
 - icon: graduation-cap
   icon_pack: fas
   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/tehillamo
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: www.linkedin.com/in/tehilla-mechera-ostrovsky
 superuser: true
 title: Tehilla Ostrovsky
 ---
 
-I am a Ph.D. studying cognitive science at UNSW, Sydney. I received my BA adn my Masters degrees from the University of Basel, Switzerland. My research focuses on risk decision-making and information seeking behvaiour.  
+I am a Ph.D. studying cognitive science at UNSW, Sydney. I received my BA and my Masters degrees from the University of Basel, Switzerland. My research focuses on risky decision-making and information-seeking behavior.  
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
