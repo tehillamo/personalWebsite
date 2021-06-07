@@ -1,6 +1,5 @@
 ---
-bio: My research interests include decision making
-  matter.
+bio: My research interests include risky decision making, Coding, data analysis and computational modeling. 
 education:
   courses:
   - course: Masters of Science in Psychology
@@ -30,7 +29,7 @@ social:
   icon: twitter
   icon_pack: fab
   label: Follow me on Twitter
-  link: https://twitter.com/
+  link: https://twitter.com/TehillaOst
 - icon: graduation-cap
   icon_pack: fas
   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
@@ -44,7 +43,7 @@ superuser: true
 title: Tehilla Ostrovsky
 ---
 
-I am a Ph.D. studying cognitive science at UNSW, Sydney. I received my Bachelor and my Masters degrees from the University of Basel, Switzerland. My research focuses on risky decision-making and information-seeking behavior.  
+I am a Ph.D. student studying cognitive science at UNSW, Sydney. I received my Bachelor and my Masters degrees from the University of Basel, Switzerland. My research focuses on risky decision-making and information-seeking behavior.  
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
