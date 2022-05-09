@@ -22,24 +22,26 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
-    location: California
-    date_start: '2017-01-01'
-    date_end: ''
+  - title: Graduate Student
+    company: University of New South Wales
+    # company_url: ''
+    location: Sydney
+    date_start: '2019-09-01'
+    date_end: '2022-03-01'
     description: |2-
-        Responsibilities include:
+        General Activities:
+        * RTP Scholar studying the effect of information-seeking and social information in decision-making unde risk. 
+        * PhD mentor for high school students in the Cognitive Science [SciX](https://www.unsw.edu.au/science/study-with-us/scix-school-extension-program) Program at UNSW
+        * Member of the UNSW [Women in Maths and Science Champions Program ](https://www.unsw.edu.au/science/engage-with-us/unsw-women-maths-science-champions-program)
+        * Active committee member in the Rcoders community at UNSW [Rcoders](https://unsw-coders.netlify.app)
         
-        * Analysing
-        * Modelling
-        * Deploying
-        
-  - title: Professor
-    company: University X
-    company_url: ''
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2016-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+  - title: Full-Time Research Assistant 
+    company: University of Basel
+    # company_url: 'https://www.unibas.ch/en.html'
+    location: Basel, Switzerland 
+    date_start: '2018-01-01'
+    date_end: '2019-01-01'
+    description: |2-
+        Main Activities:
+        * Researcher on a project titled “On the Presumed Link Between Cognitive Abilities and Risk-Preferences“
 ---
