@@ -19,8 +19,8 @@ content:
   count: 5
   # Filter on criteria
   filters:
-    author: ""
-    category: ""
+    author: admin 
+    category: UNSW - Blogpost 
     tag: ""
     exclude_featured: false
     exclude_future: false
@@ -39,3 +39,8 @@ design:
   #   4 = Citation (publication only)
   view: 2
 ---
+
+
+Check out the interview with me as a part of the [Women in Math and Science Champions Program](https://blogs.unsw.edu.au/mathssciencechampions/blog/2021/04/disentangling-decision-making-meet-tehilla/)
+
+Also, to build a website similar to this, Jenny Sloane and I have posted tutorials on YouTube for how to build an academic website using R blogdown. Check out our [YouTube Playlist](https://www.youtube.com/playlist?list=PLpZT7JPM8_GbPiX4ibrP7ogl7GyEofZMj). 
