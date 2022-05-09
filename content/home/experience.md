@@ -44,4 +44,17 @@ experience:
     description: |2-
         Main Activities:
         * Researcher on a project titled “On the Presumed Link Between Cognitive Abilities and Risk-Preferences“
+        * Data Analysis 
+        * Data Visualization 
+        
+  - title: Part-Time Research Assistant 
+    company: ETH
+    # company_url: 'https://ethz.ch/en.html'
+    location: Zurich, Switzerland 
+    date_start: '2017-01-01'
+    date_end: '2017-06-01'
+    description: |2-
+        Main Activities:
+        * Researcher on the types of investors and their investing strategies 
+        * Data Analysis 
 ---
