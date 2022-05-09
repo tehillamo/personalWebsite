@@ -15,6 +15,7 @@ interests:
 - Data Science
 - Statistics
 - Experimental Psychology 
+- Cognitive Modeling
 
 organizations:
 - name: University of New South Wales
@@ -46,4 +47,4 @@ title: Tehilla Ostrovsky
 I am a Ph.D. student studying cognitive science at UNSW, Sydney. I received my Bachelor and my Masters degrees from the University of Basel, Switzerland. My research focuses on risky decision-making and information-seeking behavior.  
 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/CV_OstrovskyTehilla.pdf" "newtab" >}}resumé{{< /staticref >}}.
